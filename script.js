@@ -1,1 +1,1 @@
-console.log("Portfolio Website Loaded");
+console.log("Responsive Landing Page Loaded");
